@@ -51,3 +51,4 @@
 Assets/Agora-RTC-Plugin/Agora-Unity-RTC-SDK/Plugins/iOS/AgoraRtcKit.framework/AgoraRtcKit filter=lfs diff=lfs merge=lfs -text
 .cubemap filter=lfs diff=lfs merge=lfs -text
 *.so filter=lfs diff=lfs merge=lfs -text
+*.cubemap filter=lfs diff=lfs merge=lfs -text
